@@ -43,6 +43,8 @@ Bu projeye ait tüm mimari tasarımlar, arayüz bileşenleri ve iş mantığı k
 
 Kaynak kodlar veya veritabanı şemaları açık kaynak olarak paylaşılamaz. Proje hakkında yetkilendirme, demo talepleri veya iş birlikleri için proje sahibiyle iletişime geçebilirsiniz.
 
+---
+
 ## 📸 Ekran Görüntüleri
 
 <img width="1913" height="914" alt="5" src="https://github.com/user-attachments/assets/16dd77ec-56e5-4c80-a1e3-bc8f12af0581" />
