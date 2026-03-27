@@ -1,6 +1,6 @@
-# 🌿 Menta Institute - Eğitim ve Yönetim Platformu
+# 🌿 Menta Enstitu - Eğitim ve Yönetim Platformu
 
-Menta Institute, eğitim ve yönetim süreçlerini uçtan uca dijitalleştirmek, hızlandırmak ve modern bir deneyim sunmak amacıyla geliştirilmiş kapsamlı bir platformdur. 
+Menta Enstitu, eğitim ve yönetim süreçlerini uçtan uca dijitalleştirmek, hızlandırmak ve modern bir deneyim sunmak amacıyla geliştirilmiş kapsamlı bir platformdur. 
 
 > **⚠️ Önemli Not:** Bu depo (repository) sadece projenin tanıtımı ve mimari yaklaşımının sergilenmesi amacıyla oluşturulmuştur. Projenin ticari ve özel doğası gereği kaynak kodları kapalı tutulmaktadır (Closed-Source).
 
@@ -8,7 +8,7 @@ Menta Institute, eğitim ve yönetim süreçlerini uçtan uca dijitalleştirmek,
 
 ## 🚀 Proje Hakkında
 
-Menta Institute, eğitim kurumlarının hem idari hem de akademik süreçlerini tek bir merkezden yönetmelerini sağlar. Modern web standartlarına ve en iyi yazılım mühendisliği pratiklerine sadık kalınarak geliştirilmiştir. 
+Menta Enstitu, eğitim kurumlarının hem idari hem de akademik süreçlerini tek bir merkezden yönetmelerini sağlar. Modern web standartlarına ve en iyi yazılım mühendisliği pratiklerine sadık kalınarak geliştirilmiştir. 
 
 Ölçeklenebilir, güvenli ve yüksek performanslı bir altyapı sunmak için **Clean Architecture (Temiz Mimari)** prensipleri benimsenmiştir.
 
@@ -45,5 +45,5 @@ Kaynak kodlar veya veritabanı şemaları açık kaynak olarak paylaşılamaz. P
 
 ---
 <p align="center">
-  <b>Menta Institute</b> • 2026
+  <b>Menta Enstitu</b> • 2026
 </p>
