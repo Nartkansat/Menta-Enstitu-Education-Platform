@@ -43,6 +43,14 @@ Bu projeye ait tüm mimari tasarımlar, arayüz bileşenleri ve iş mantığı k
 
 Kaynak kodlar veya veritabanı şemaları açık kaynak olarak paylaşılamaz. Proje hakkında yetkilendirme, demo talepleri veya iş birlikleri için proje sahibiyle iletişime geçebilirsiniz.
 
+## 📸 Ekran Görüntüleri
+
+<img width="1913" height="914" alt="5" src="https://github.com/user-attachments/assets/16dd77ec-56e5-4c80-a1e3-bc8f12af0581" />
+<img width="1907" height="906" alt="4" src="https://github.com/user-attachments/assets/d9fb5e82-0f64-4096-9247-7c3582a2bc66" />
+<img width="1901" height="908" alt="3" src="https://github.com/user-attachments/assets/6154221a-115c-4391-a822-23c722ea6c40" />
+<img width="1898" height="905" alt="2" src="https://github.com/user-attachments/assets/0f2e8398-7a80-4eba-ba0b-03e139792cab" />
+<img width="1913" height="910" alt="1" src="https://github.com/user-attachments/assets/29a3b4d2-5ecb-4603-950d-8a053b7a7775" />
+
 ---
 <p align="center">
   <b>Menta Enstitu</b> • 2026
