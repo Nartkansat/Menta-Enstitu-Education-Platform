@@ -77,3 +77,4 @@ Source codes or database schemas cannot be shared as open source. For authorizat
 <p align="center">
   <b>Menta Enstitu</b> • 2026
 </p>
+
